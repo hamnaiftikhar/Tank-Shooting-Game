@@ -1,7 +1,7 @@
 Tank-Shooting-Game
 
 
-I have designed this game using basic concepts of OOP in c++ and graphics.h library for the game visiuals.
+I have designed this game using basic concepts of OOP in c++ and graphics.h library for the game visiuals. In this game your tank has to shoot enemy tanks and resultly gain points. If you get shooted by an enemy the game is over and the program ends after displaying result at the side bar.
 
 
 SETUP: Graphics.h library
